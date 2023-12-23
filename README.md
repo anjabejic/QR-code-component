@@ -11,16 +11,17 @@
 
 ### Screenshot
 
+![Desktop View](/images/my-desktop-view.png) 
+![Mobile View](/images/my-mobile-view.png) 
 
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://anjabejic.github.io/QR-code-component/
 
 
 ## Author
 
-
-- Website - [Anja Bejic]
-- Frontend Mentor - [@](https://www.frontendmentor.io/profile/anjab99)
+- Github - https://github.com/anjabejic
+- Frontend Mentor - https://www.frontendmentor.io/profile/anjab99
 
