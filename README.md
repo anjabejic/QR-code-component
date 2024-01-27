@@ -1,4 +1,4 @@
-# *QR CODE COMPONENT
+# QR CODE COMPONENT
 1st Challenge Project for Codecademy Front-end Path
 
 ## Table of contents
