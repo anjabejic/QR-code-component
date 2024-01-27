@@ -22,5 +22,5 @@
 ## Author
 
 - Github - https://github.com/anjabejic
-- Frontend Mentor - https://www.frontendmentor.io/profile/anjab99
+- Frontend Mentor - https://www.frontendmentor.io/profile/anjabejic
 
