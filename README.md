@@ -1,6 +1,6 @@
 
 # **QR CODE COMPONENT**
-### My First Challenge project for Frontend Mentor
+My First Challenge project for Frontend Mentor
 
 ## Table of contents
 
