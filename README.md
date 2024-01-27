@@ -1,6 +1,5 @@
-
-# **QR CODE COMPONENT**
-My First Challenge project for Frontend Mentor
+# *QR CODE COMPONENT
+1st Challenge Project for Codecademy Front-end Path
 
 ## Table of contents
 
